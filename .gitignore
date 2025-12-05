@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AdventOfCode2025/obj
+/AdventOfCode2025/.vs/AdventOfCode2025
+/AdventOfCode2025/bin/Debug/net10.0
